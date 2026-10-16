@@ -5,6 +5,6 @@ The list of hospitals which are linked to UCL is:
 
 ### * UCLH
 
-### * St Mary's Hospital
+### * Whittinghton
 
-### * Royal L
+### * Royal Free
